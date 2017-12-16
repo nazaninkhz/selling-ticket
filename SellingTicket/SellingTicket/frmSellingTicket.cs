@@ -39,7 +39,7 @@ namespace SellingTicket
             rdbMale.Checked = true;
             cmbDestination.SelectedIndex = 0;
             cmbOrigin.SelectedIndex = 0;
-            MessageBox.Show("بلیط صادر گردید");
+            MessageBox.Show("بلیط با موفقیت صادر گردید.");
         }
     }
 }
