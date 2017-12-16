@@ -1,0 +1,7 @@
+E:\projects\C#\SellingTicketProject\SellingTicket\BussinessLayer\bin\Debug\BussinessLayer.dll
+E:\projects\C#\SellingTicketProject\SellingTicket\BussinessLayer\bin\Debug\BussinessLayer.pdb
+E:\projects\C#\SellingTicketProject\SellingTicket\BussinessLayer\bin\Debug\DataAccess.dll
+E:\projects\C#\SellingTicketProject\SellingTicket\BussinessLayer\bin\Debug\DataAccess.pdb
+E:\projects\C#\SellingTicketProject\SellingTicket\BussinessLayer\obj\Debug\BussinessLayer.csprojResolveAssemblyReference.cache
+E:\projects\C#\SellingTicketProject\SellingTicket\BussinessLayer\obj\Debug\BussinessLayer.dll
+E:\projects\C#\SellingTicketProject\SellingTicket\BussinessLayer\obj\Debug\BussinessLayer.pdb

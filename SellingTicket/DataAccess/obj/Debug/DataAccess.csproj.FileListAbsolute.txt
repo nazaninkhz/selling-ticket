@@ -1,0 +1,5 @@
+E:\projects\C#\SellingTicketProject\SellingTicket\DataAccess\bin\Debug\DataAccess.dll
+E:\projects\C#\SellingTicketProject\SellingTicket\DataAccess\bin\Debug\DataAccess.pdb
+E:\projects\C#\SellingTicketProject\SellingTicket\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+E:\projects\C#\SellingTicketProject\SellingTicket\DataAccess\obj\Debug\DataAccess.dll
+E:\projects\C#\SellingTicketProject\SellingTicket\DataAccess\obj\Debug\DataAccess.pdb

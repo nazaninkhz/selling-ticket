@@ -1,0 +1,16 @@
+E:\projects\C#\SellingTicketProject\SellingTicket\SellingTicket\bin\Debug\SellingTicket.exe.config
+E:\projects\C#\SellingTicketProject\SellingTicket\SellingTicket\bin\Debug\SellingTicket.exe
+E:\projects\C#\SellingTicketProject\SellingTicket\SellingTicket\bin\Debug\SellingTicket.pdb
+E:\projects\C#\SellingTicketProject\SellingTicket\SellingTicket\bin\Debug\BussinessLayer.dll
+E:\projects\C#\SellingTicketProject\SellingTicket\SellingTicket\bin\Debug\DataAccess.dll
+E:\projects\C#\SellingTicketProject\SellingTicket\SellingTicket\bin\Debug\BussinessLayer.pdb
+E:\projects\C#\SellingTicketProject\SellingTicket\SellingTicket\bin\Debug\DataAccess.pdb
+E:\projects\C#\SellingTicketProject\SellingTicket\SellingTicket\obj\Debug\SellingTicket.csprojResolveAssemblyReference.cache
+E:\projects\C#\SellingTicketProject\SellingTicket\SellingTicket\obj\Debug\SellingTicket.Properties.Resources.resources
+E:\projects\C#\SellingTicketProject\SellingTicket\SellingTicket\obj\Debug\SellingTicket.csproj.GenerateResource.Cache
+E:\projects\C#\SellingTicketProject\SellingTicket\SellingTicket\obj\Debug\SellingTicket.exe
+E:\projects\C#\SellingTicketProject\SellingTicket\SellingTicket\obj\Debug\SellingTicket.pdb
+E:\projects\C#\SellingTicketProject\SellingTicket\SellingTicket\obj\Debug\SellingTicket.frmLogin.resources
+E:\projects\C#\SellingTicketProject\SellingTicket\SellingTicket\obj\Debug\SellingTicket.frmMenu.resources
+E:\projects\C#\SellingTicketProject\SellingTicket\SellingTicket\obj\Debug\SellingTicket.frmSellingTicket.resources
+E:\projects\C#\SellingTicketProject\SellingTicket\SellingTicket\obj\Debug\SellingTicket.frmSoldTickets.resources
