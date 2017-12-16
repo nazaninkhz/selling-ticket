@@ -42,7 +42,7 @@
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(96, 17);
             this.label1.TabIndex = 0;
-            this.label1.Text = "خوش آمدید آقا/خانم";
+            this.label1.Text = "welcome";
             // 
             // lblFullName
             // 
